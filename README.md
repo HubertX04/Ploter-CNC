@@ -23,7 +23,7 @@ Programy:
 3.	Universal GCode Sender/GRBL - program do wysyłania i odbierania informacji o aktualnym położeniu silników krokowych - służy do wykonywania rysunków
 
    
-** Wykonane działania**
+**Wykonane działania**
 
 **Dobór komponentów**
 ●	Wybrano napędy DVD jako bazę dla osi ruchu plotera.
@@ -49,7 +49,7 @@ Programy:
 ●	Przygotowano demonstrację urządzenia, prezentując możliwości plotera na spotkaniu koła naukowego.
 
 
-** Wnioski**
+**Wnioski**
 Realizacja projektu plotera CNC pozwoliła na zdobycie praktycznej wiedzy z zakresu mechaniki, elektroniki i oprogramowania urządzeń sterowanych numerycznie. 
 Uczestnicy nauczyli się konfigurować sterowniki silników krokowych, wgrywać oprogramowanie GRBL na Arduino oraz obsługiwać programy do tworzenia i przetwarzania plików wektorowych, takie jak Inkscape. 
 Wykorzystanie części z odzysku, takich jak napędy DVD, pokazało, że budowa funkcjonalnego urządzenia CNC może być niskobudżetowa. 
