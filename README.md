@@ -26,27 +26,27 @@ Programy:
 **Wykonane działania**
 
 **Dobór komponentów**
-●	Wybrano napędy DVD jako bazę dla osi ruchu plotera.
-●	Zastosowano Arduino UNO z CNC Shield V3 oraz sterownikami silników krokowych A4988 do sterowania urządzeniem.
-●	Przygotowano odpowiednie przewody i złącza do połączenia elementów elektronicznych.
+- Wybrano napędy DVD jako bazę dla osi ruchu plotera.
+- Zastosowano Arduino UNO z CNC Shield V3 oraz sterownikami silników krokowych A4988 do sterowania urządzeniem.
+- Przygotowano odpowiednie przewody i złącza do połączenia elementów elektronicznych.
 
 **Budowa obudowy**
-●	Wykorzystano kątowniki, blachę oraz śruby do stworzenia stabilnej i funkcjonalnej konstrukcji urządzenia.
-●	Zamontowano komponenty mechaniczne i elektroniczne, zapewniając odpowiednią stabilność i precyzję działania.
+- Wykorzystano kątowniki, blachę oraz śruby do stworzenia stabilnej i funkcjonalnej konstrukcji urządzenia.
+- Zamontowano komponenty mechaniczne i elektroniczne, zapewniając odpowiednią stabilność i precyzję działania.
 
 **Instalacja i konfiguracja oprogramowania**
-●	Przygotowano oprogramowanie GRBL, które zostało wgrane na Arduino za pomocą programu XLoader.
-●	Skonfigurowano sterowniki silników krokowych A4988, ustawiając odpowiedni prąd i mikrokroki.
-●	Przygotowano środowisko pracy z programem Inkscape, umożliwiającym tworzenie plików wektorowych w formacie G-Code.
+- Przygotowano oprogramowanie GRBL, które zostało wgrane na Arduino za pomocą programu XLoader.
+- Skonfigurowano sterowniki silników krokowych A4988, ustawiając odpowiedni prąd i mikrokroki.
+- Przygotowano środowisko pracy z programem Inkscape, umożliwiającym tworzenie plików wektorowych w formacie G-Code.
 
 **Testy i uruchomienie urządzenia**
-●	Przeprowadzono testy działania osi X, Y i Z, zapewniając precyzyjne przesuwanie.
-●	Wykonano pierwsze rysunki testowe, dostosowując parametry prędkości i dokładności do możliwości urządzenia.
-●	Opracowano proces od projektu graficznego do gotowego rysunku, w tym konwersję plików do G-Code i przesyłanie ich do plotera.
+- Przeprowadzono testy działania osi X, Y i Z, zapewniając precyzyjne przesuwanie.
+- Wykonano pierwsze rysunki testowe, dostosowując parametry prędkości i dokładności do możliwości urządzenia.
+- Opracowano proces od projektu graficznego do gotowego rysunku, w tym konwersję plików do G-Code i przesyłanie ich do plotera.
 
 **Optymalizacja i prezentacja**
-●	Poprawiono stabilność mechaniki i jakość rysunków poprzez regulację urządzenia.
-●	Przygotowano demonstrację urządzenia, prezentując możliwości plotera na spotkaniu koła naukowego.
+- Poprawiono stabilność mechaniki i jakość rysunków poprzez regulację urządzenia.
+- Przygotowano demonstrację urządzenia, prezentując możliwości plotera na spotkaniu koła naukowego.
 
 
 **Wnioski**
